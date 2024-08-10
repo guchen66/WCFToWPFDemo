@@ -1,0 +1,13 @@
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\WCF发送Xml.dll.config
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\WCF发送Xml.dll
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\WCF发送Xml.pdb
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\obj\Debug\WCF发送Xml.csproj.AssemblyReference.cache
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\obj\Debug\WCF发送Xml.csproj.CoreCompileInputs.cache
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\obj\Debug\WCF发送Xml.dll
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\obj\Debug\WCF发送Xml.pdb
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\IT.Tangdao.Framework.dll
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\Newtonsoft.Json.dll
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\System.ValueTuple.dll
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\Newtonsoft.Json.xml
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\bin\System.ValueTuple.xml
+E:\CSharp Project\WCF Station\给WPF发送数据\WCF发送Xml\WCF发送Xml\obj\Debug\WCF发送Xml.csproj.Up2Date
