@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,6 +37,22 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Student.svc.cs",
@@ -44,7 +60,7 @@
               "RelativeDocumentMoniker": "WCF\u53D1\u9001Xml\\Student.svc.cs",
               "ToolTip": "E:\\CSharp Project\\WCF Station\\\u7ED9WPF\u53D1\u9001\u6570\u636E\\WCF\u53D1\u9001Xml\\WCF\u53D1\u9001Xml\\Student.svc.cs",
               "RelativeToolTip": "WCF\u53D1\u9001Xml\\Student.svc.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBgAAABHAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAABgAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T10:11:36.434Z",
               "EditorCaption": ""
@@ -59,8 +75,7 @@
               "RelativeToolTip": "WCF\u53D1\u9001Xml\\IStudent.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAiwCwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T10:11:29.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T10:11:29.476Z"
             },
             {
               "$type": "Document",
